@@ -17,7 +17,6 @@
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
     vendor/htc/mecha/proprietary/lib/libril.so:obj/lib/libril.so \
-    vendor/htc/mecha/proprietary/lib/libqc-opt.so:obj/lib/libqc-opt.so \
     vendor/htc/mecha/proprietary/lib/libv8.so:obj/lib/libv8.so \
     vendor/htc/mecha/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
 
